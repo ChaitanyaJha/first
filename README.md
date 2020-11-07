@@ -1,2 +1,2 @@
 # first
-print(hello)
+starting
